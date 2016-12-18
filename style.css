@@ -138,7 +138,7 @@ header nav ul li {
 }
 
 header nav ul li:first-child {
-  margin-left: none;
+  margin-left: 0;
 }
 
 header nav ul li a.active {
@@ -159,7 +159,7 @@ header nav ul li a.active {
     float: right;
     width: auto;
   }
-
 }
+
 
 
