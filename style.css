@@ -117,7 +117,7 @@ header {
 }
 
 header .logo {
-  max-width: 115px;
+  max-width: 50%;
   margin-bottom: 32px;
 }
 
@@ -152,6 +152,7 @@ header nav ul li a.active {
   
   header .logo {
     margin-bottom: 0;
+    max-width: 115px;
   }
 
   header nav {
